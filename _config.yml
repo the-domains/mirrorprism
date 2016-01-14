@@ -1,0 +1,28 @@
+name: mirrorprism
+favicon: null
+layout_spectrum: 0.5096689886413515
+typography_spectrum: 0.21485621551983058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9819617064204067
+  lightness: 0.2112861555069685
+  saturation: 0.8688533226959407
+  rhythmicContrast: 0.5678916412871331
+purpose: []
